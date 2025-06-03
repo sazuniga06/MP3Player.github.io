@@ -17,7 +17,7 @@ body {
     justify-content: center;
     min-height: 100vh;
     align-items: center;
-    background: url(Pics/background.jpg);
+    background: url(Pics/Background.png);
     background-repeat: no-repeat;
     background-size: cover;
     backdrop-filter: blur(8px);
